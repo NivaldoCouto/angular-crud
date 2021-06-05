@@ -1,5 +1,5 @@
-# Projeto CRUD com Angular 9
-## Projeto de cadastramento de produtos com Angular 9 do curso code3r.
+<h1 align="center"> Projeto CRUD com Angular 9</h1>
+  <h2 align="center">Projeto de cadastramento de produtos com Angular 9 do curso code3r.</h2>
 
 - 👋 Hi, I’m @NivaldoCouto
 - 👀 I’m interested in software development
